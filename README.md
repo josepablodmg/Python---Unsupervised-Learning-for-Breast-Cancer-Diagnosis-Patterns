@@ -1,0 +1,2 @@
+# Python---Unsupervised-Learning-for-Breast-Cancer-Diagnosis-Patterns
+This project explores unsupervised learning techniques on the Breast Cancer dataset. We used K-means and K-medoids clustering to detect patterns in tumor features, and apply PCA for dimensionality reduction and visualization. We compared clustering methods using silhouette scores and interprets the clusters in the context of tumor malignancy.

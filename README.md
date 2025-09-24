@@ -13,7 +13,6 @@ The dataset contains features extracted from breast cancer cell nuclei, includin
 
 ## Project Structure
 - `project.ipynb`: Jupyter notebook with code and analysis.
-- `project.html`: HTML version of the notebook.
 - `data.csv`: Dataset used in the project.
 
 ## Key Findings
